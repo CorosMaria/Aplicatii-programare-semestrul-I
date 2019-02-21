@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Afisare binara c++", "Afisare binara c++\Afisare binara c++.vcproj", "{B32322A2-4B4D-4E43-A80B-98E56FBB89BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32322A2-4B4D-4E43-A80B-98E56FBB89BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B32322A2-4B4D-4E43-A80B-98E56FBB89BB}.Debug|Win32.Build.0 = Debug|Win32
+		{B32322A2-4B4D-4E43-A80B-98E56FBB89BB}.Release|Win32.ActiveCfg = Release|Win32
+		{B32322A2-4B4D-4E43-A80B-98E56FBB89BB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\obj\Debug\Afisare_cerc_la_click_pe_form.Form1.resources
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\obj\Debug\Afisare_cerc_la_click_pe_form.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\obj\Debug\Afisare cerc la click pe form.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\bin\Debug\Afisare cerc la click pe form.exe
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\bin\Debug\Afisare cerc la click pe form.pdb
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\obj\Debug\Afisare cerc la click pe form.exe
+D:\MARIA\Programare\Aplicatii\Afisare cerc la click pe form\Afisare cerc la click pe form\obj\Debug\Afisare cerc la click pe form.pdb

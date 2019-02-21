@@ -1,0 +1,10 @@
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\bin\Debug\4 butoane.exe
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\bin\Debug\4 butoane.pdb
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\obj\Debug\_4_butoane.Form1.resources
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\obj\Debug\_4_butoane.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\obj\Debug\4 butoane.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\obj\Debug\4 butoane.exe
+D:\MARIA\Programare\Aplicatii\Instructiuni\4 butoane\4 butoane\obj\Debug\4 butoane.pdb
+D:\MARIA\Programare\Aplicatii\4 butoane X0\4 butoane\obj\Debug\4 butoane.exe
+D:\MARIA\Programare\Aplicatii\4 butoane X0\4 butoane\obj\Debug\4 butoane.pdb
